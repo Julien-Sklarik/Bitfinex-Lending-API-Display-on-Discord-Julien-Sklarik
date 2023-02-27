@@ -1,6 +1,6 @@
 # Bitfinex USD Lending Bot
 
-This project aims to lend USD in the Bitfinex margin lending platform, with the purpose of monitoring positions and risks by pulling data from the API and displaying it in an easy-to-read way. 
+This application's purpose is to monitor positions and risks by pulling data from the Bitfinex API and displaying it in an easy-to-read way. 
 
 ## Features
 
