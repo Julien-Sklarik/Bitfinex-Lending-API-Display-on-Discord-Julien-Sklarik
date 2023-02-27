@@ -1,6 +1,6 @@
 # Bitfinex USD Lending Bot
 
-This application's purpose is to monitor positions and risks by pulling data from the Bitfinex API and displaying it in an easy-to-read way. 
+This application aims to monitor positions and risks by pulling data from your Bitfinex portfolios and displaying it in an easy-to-read way. 
 
 ## Features
 
